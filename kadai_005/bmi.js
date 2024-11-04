@@ -1,9 +1,5 @@
-let bodyWeight;
+let bodyWeight=68;
 
-bodyWeight=6800;
-
-let height;
-
-height=1700;
+let height=1.7;
 
 console.log(bodyWeight/(height*height));
