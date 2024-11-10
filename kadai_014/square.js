@@ -1,5 +1,5 @@
 const calc= (sum) => {
-  console.log(sum);
+  console.log(1**2);
 }
 
-calc(10**2);
+sum(10);
