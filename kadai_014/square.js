@@ -1,5 +1,6 @@
-const calc= (sum) => {
-  console.log(1**2);
+const calc= (num) => {
+  return( num * num );
+
 }
 
-sum(10);
+console.log(calc(10));
